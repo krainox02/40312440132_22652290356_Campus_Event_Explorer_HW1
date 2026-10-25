@@ -1,0 +1,20 @@
+# Generated and local files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+coverage/
+*.iml
+.idea/
+.vscode/
+android/local.properties
+android/.gradle/
+android/key.properties
+*.jks
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+web/flutter_service_worker.js
+.DS_Store
